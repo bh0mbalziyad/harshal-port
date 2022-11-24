@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body.scroll-disable {
+  position: relative;
+  overflow: hidden;
+}
+
+body,
+html {
+  scroll-padding: 110px;
+  scroll-behavior: smooth;
+}
+
+/* .scroll-disable {
+  overflow: hidden;
+} */

@@ -2,7 +2,7 @@
   <nav
     class="z-10 flex py-8 px-4 items-center bg-primary dark:bg-black fixed top-0 right-0 left-0"
   >
-    <h1 class="text-4xl text-white font-bold tracking-wider">Yasar</h1>
+    <h1 class="text-4xl text-white font-bold tracking-wider">Harshal</h1>
     <div class="inline-flex items-center ml-auto">
       <ul class="hidden lg:flex gap-3">
         <a v-for="link in links" :key="link.link" :href="link.link">

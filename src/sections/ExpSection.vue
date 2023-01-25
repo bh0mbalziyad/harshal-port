@@ -13,50 +13,50 @@
     </p>
     <div ref="slider" class="keen-slider">
       <div class="keen-slider__slide">
-        <ExpCard title="SEO" borderColor="border-orange-500">
+        <ExpCard title="Premier Pro" borderColor="border-orange-500">
           <img
-            src="../assets/exp/seo.png"
+            src="../assets/exp/premierpro.png"
             class="w-full h-full object-contain"
           />
         </ExpCard>
-        <ExpCard title="Social Media Marketing" borderColor="border-blue-600">
+        <ExpCard title="After Effects" borderColor="border-blue-600">
           <img
-            src="../assets/exp/social-media.png"
+            src="../assets/exp/after-effects.png"
             class="w-full h-full object-contain"
           />
         </ExpCard>
-        <ExpCard title="Communications" borderColor="border-pink-400">
+        <ExpCard title="Lightroom" borderColor="border-pink-400">
           <img
-            src="../assets/exp/communication.png"
+            src="../assets/exp/lightroom.png"
             class="w-full h-full object-contain"
           />
         </ExpCard>
       </div>
       <div class="keen-slider__slide">
-        <ExpCard title="Influencer Marketing" borderColor="border-blue-500">
+        <ExpCard title="Blender" borderColor="border-blue-500">
           <img
-            src="../assets/exp/network.png"
+            src="../assets/exp/blender.webp"
             class="w-full h-full object-contain"
           />
         </ExpCard>
 
-        <ExpCard title="Advertising" borderColor="border-sky-400">
+        <ExpCard title="Illustartor" borderColor="border-sky-400">
           <img
-            src="../assets/exp/video-ad.png"
+            src="../assets/exp/illustrator.png"
             class="w-full h-full object-contain"
           />
         </ExpCard>
       </div>
       <div class="keen-slider__slide">
-        <ExpCard title="Public Relations" borderColor="border-yellow-500">
+        <ExpCard title="After Effects" borderColor="border-yellow-500">
           <img
-            src="../assets/exp/public-relation.png"
+            src="../assets/exp/after-effects.png"
             class="w-full h-full object-contain"
           />
         </ExpCard>
-        <ExpCard title="Content" borderColor="border-white">
+        <ExpCard title="Lightroom" borderColor="border-white">
           <img
-            src="../assets/exp/writer.png"
+            src="../assets/exp/lightroom.png"
             class="w-full h-full object-contain"
           />
         </ExpCard>

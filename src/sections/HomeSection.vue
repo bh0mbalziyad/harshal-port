@@ -3,14 +3,13 @@
     class="h-full text-white flex flex-col-reverse gap-4 lg:flex-row justify-center items-center"
   >
     <div class="max-w-2xl lg:basis-1/2">
-      <h1 class="font-bold text-4xl md:text-6xl">I'm a Digital Marketeer</h1>
+      <h1 class="font-bold text-4xl md:text-6xl">
+        I'm a Video Editor & Content Creator
+      </h1>
       <p class="text-gray-500 my-2 break-words">
-        Mass Media ( advertising) Graduate, Specialised in Digital Marketing,
-        Influencer Marketing , SEO, Paid ads and Public relations, Worked with
-        brands like ZEE Music, Sony Music India, Tik-Tok India, OpenInApp,
-        Listed, RVCJ, Pepperfry Desi Factory, Hotel, and Restaurant Association
-        of India, and worked as a copywriter for Taarak Mehta Ka Ooltah
-        Chashmah.
+        An experienced and digital-savvy content creator with strong video
+        production skills. Known for my clear and collaborative approach and my
+        successes developing innovative strategies and content.
       </p>
       <a
         href="#portfolio"

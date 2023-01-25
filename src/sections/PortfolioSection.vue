@@ -13,44 +13,20 @@
     </p>
 
     <div ref="slider" class="keen-slider mx-6">
-      <!-- <div class="keen-slider__slide">
-        <PortfolioCard>
-          <template #image>
-            <img
-              class="object-contain h-full w-full transition-transform duration-100 ease-in hover:scale-110"
-              src="../assets/portfolio/hackstrap1.png"
-              alt="Hackstrap"
-            />
-          </template>
-          <template #btn1>
-            <AppButton
-              disabled
-              tooltip="This site has been taken down by the owner"
-            >
-              <h2 class="text-lg">Checkout!</h2>
-            </AppButton>
-          </template>
-          <template #btn2>
-            <AppButton
-              disabled
-              tooltip="The code is propietary and has been handed over"
-            >
-              <h2 class="text-lg">Code</h2>
-            </AppButton>
-          </template>
-        </PortfolioCard>
-      </div> -->
       <div class="keen-slider__slide">
         <PortfolioCard>
           <template #image>
             <img
               class="object-contain h-full w-full transition-transform duration-100 ease-in hover:scale-110"
-              src="../assets/portfolio/pepperfry.png"
+              src="../assets/portfolio/showreel_thumbnail.png"
               alt="Pepperfry"
             />
           </template>
           <template #btn1>
-            <a target="_blank" href="https://www.pepperfry.com">
+            <a
+              target="_blank"
+              href="https://drive.google.com/file/d/1k8cdtol1JfqByDSKSLb7hGjliFr9fzKT/view"
+            >
               <AppButton>
                 <h2 class="text-lg">Checkout!</h2>
               </AppButton>

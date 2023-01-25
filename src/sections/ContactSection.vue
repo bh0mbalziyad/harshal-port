@@ -60,7 +60,7 @@
           />
         </li>
       </a>
-      <a target="_blank" href="https://instagram.com/_yasar_khan">
+      <a target="_blank" href="https://www.instagram.com/hartstills">
         <li
           role="side-sticky"
           class="border border-grayy-600 flex rounded-full justify-center items-center flex-col p-3 md:p-6"
@@ -72,7 +72,7 @@
           />
         </li>
       </a>
-      <a target="_blank" href="mailto:mskn27@gmail.com">
+      <a target="_blank" href="mailto:hartstills@gmail.com">
         <li
           role="side-sticky"
           class="border border-grayy-600 flex rounded-full justify-center items-center flex-col p-3 md:p-6"

@@ -9,18 +9,26 @@
     </h2>
     <div>
       <p class="font-thin text-xl">
-        Mass Media ( advertising) Graduate, Specialised in Digital Marketing,
-        Influencer Marketing , SEO, Paid ads and Public relations.
+        Worked as a video editor in a fast-paced VFX video production business.
       </p>
       <br />
       <p class="font-thin text-xl">
-        Worked with brands like ZEE Music, Sony Music India, Tik-Tok India,
-        OpenInApp, Listed, RVCJ, Pepperfry Desi Factory, Hotel, and Restaurant
-        Association of India.
+        Worked with brands like Amazon Prime, OnePlus, McClaren Hong Kong, Gully
+        Gang India, Nike etc where I was responsible for video editing,
+        cinematography, content creation and execution
       </p>
       <br />
       <p class="font-thin text-xl">
-        Worked as a copywriter for Taarak Mehta Ka Ooltah Chashmah.
+        Shot and edited 500+ short reel videos in Premiere Pro for Hungama
+        Entertainment and currently working as a Video Editor and
+        Cinematographer at
+        <a
+          rel="noreferrer"
+          target="_blank"
+          href="https://www.instagram.com/zlanpero/"
+          class="underline cursor-pointer"
+          >Zlan Pero</a
+        >
       </p>
     </div>
   </div>

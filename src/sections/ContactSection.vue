@@ -47,7 +47,7 @@
     <ul class="p-0 mt-12 text-white flex gap-4 xl:hidden">
       <a
         target="_blank"
-        href="https://www.linkedin.com/in/yasar-khan-525712184"
+        href="https://www.linkedin.com/in/harshal-kamble-69959025b/"
       >
         <li
           role="side-sticky"
@@ -84,7 +84,10 @@
           />
         </li>
       </a>
-      <a target="_blank" href="#">
+      <a
+        target="_blank"
+        href="https://drive.google.com/file/d/1jcAsejYOdA5XhEA8npsI-e9qsI-P3ckz/view?usp=share_link"
+      >
         <li
           role="side-sticky"
           class="border border-grayy-600 flex rounded-full justify-center items-center flex-col p-3 md:p-6"

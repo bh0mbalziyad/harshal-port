@@ -4,7 +4,7 @@
       <ul class="p-0 text-white">
         <a
           target="_blank"
-          href="https://www.linkedin.com/in/yasar-khan-525712184"
+          href="https://www.linkedin.com/in/harshal-kamble-69959025b/"
         >
           <li
             role="side-sticky"
